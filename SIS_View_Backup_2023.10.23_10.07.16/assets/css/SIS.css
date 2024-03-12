@@ -1,0 +1,171 @@
+﻿html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#logo {
+    background-color: transparent;
+    width: 50px;
+    height: 50px;
+    padding: 3px;
+}
+
+#header {
+    background-color: #47b8f5;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 60px;
+    font-weight: 700;
+}
+
+#system {
+    margin-left: 200px;
+    margin-top: -40px;
+    color: #ffffff;
+    font-size: x-large;
+}
+
+#nav {
+    border: 1px solid #000000;
+    -webkit-box-shadow: 1px 2px 1px 0 #000000;
+    -moz-box-shadow: 1px 2px 10px 0 #000000;
+    box-shadow: 1px 2px 20px 0 #000000;
+    background-color: #e0e2eb;
+    position: absolute;
+    top: 60px;
+    left: -2px;
+    width: 101%;
+    height: 30px;
+}
+
+#lbldate {
+    font-family: 'Segoe UI';
+    font: 300;
+    font-size: small;
+    margin-left: 10px;
+    color: black;
+}
+
+#lblpage {
+    text-decoration: none;
+    margin-left: 100px;
+    color: #4c0a56;
+    font-weight: 900;
+    width: 480px;
+}
+
+#Login1, #Logout1 {
+    float: right;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Times New Roman';
+    padding-right: 1%;
+}
+
+#username1 {
+    float: right;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Times New Roman';
+    padding-right: 1%;
+}
+
+#sep {
+    -webkit-box-shadow: 1px 2px 1px 0 #000000;
+    -moz-box-shadow: 1px 2px 10px 0 #000000;
+    box-shadow: 1px 2px 10px 0 #000000;
+    background-color: #47b8f5;
+    position: absolute;
+    top: 94px;
+    left: 0px;
+    width: 99%;
+    height: 3px;
+    margin-left: 5px;
+}
+
+#leftbar {
+    border-right: 4px;
+    border-color: black;
+    background-color: #ffffff;
+    position: absolute;
+    top: 98px;
+    left: 0px;
+    width: 150px;
+    height: auto;
+}
+
+#Menu {
+    width: 187px;
+    height: 25px;
+    background-color: #83c5e9;
+    margin-top: -21px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 0px solid #ffffff;
+    -webkit-box-shadow: 1px 4px 600px 0 #83c5e9;
+    -moz-box-shadow: 1px 2px 200px 0 #83c5e9;
+    box-shadow: 1px 2px 10px 0 #83c5e9;
+}
+
+#MenuName {
+    text-align: center;
+    color: #565656;
+    width: 189px;
+    height: 19px;
+}
+
+#MenuList {
+    border: solid;
+    border-color: #d8d8d8;
+    height: auto;
+    width: 187px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 4px;
+    border: 0px solid #000000;
+    -webkit-box-shadow: 1px 2px 1px 0 #000000;
+    -moz-box-shadow: 1px 2px 10px 0 #000000;
+    box-shadow: 1px 2px 20px 0 #000000;
+}
+
+#menuicon {
+    width: 15px;
+    height: 15px;
+    margin-left: 20px
+}
+
+#maincontent {
+    /*background-color: #000000;*/
+    border-style: none;
+    border-color: inherit;
+    border-width: thick;
+    position: absolute;
+    top: 98px;
+    left: 184px;
+    width: 100%;
+    height: auto;
+}
+
+#MasterPannel {
+    border: groove;
+    width: 100%;
+    height: auto;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#lblinfo {
+    font-weight: 800;
+}
+
+#TreeView1 {
+    padding: 3px;
+}

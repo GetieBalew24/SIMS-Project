@@ -1,0 +1,15 @@
+D:\SIS\Student Information System\SIS_Model\bin\Debug\SIS_Model.exe.config
+D:\SIS\Student Information System\SIS_Model\bin\Debug\SIS_Model.exe
+D:\SIS\Student Information System\SIS_Model\bin\Debug\SIS_Model.pdb
+D:\SIS\Student Information System\SIS_Model\obj\Debug\SIS_Model.csproj.AssemblyReference.cache
+D:\SIS\Student Information System\SIS_Model\obj\Debug\SIS_Model.csproj.SuggestedBindingRedirects.cache
+D:\SIS\Student Information System\SIS_Model\obj\Debug\SIS_Model.csproj.CoreCompileInputs.cache
+D:\SIS\Student Information System\SIS_Model\obj\Debug\SIS_Model.exe
+D:\SIS\Student Information System\SIS_Model\obj\Debug\SIS_Model.pdb
+E:\project\College Project\SIMS\Student Information System\SIS_Model\obj\Debug\SIS_Model.csproj.AssemblyReference.cache
+E:\project\College Project\SIMS\Student Information System\SIS_Model\obj\Debug\SIS_Model.csproj.CoreCompileInputs.cache
+E:\project\College Project\SIMS\Student Information System\SIS_Model\bin\Debug\SIS_Model.exe.config
+E:\project\College Project\SIMS\Student Information System\SIS_Model\bin\Debug\SIS_Model.exe
+E:\project\College Project\SIMS\Student Information System\SIS_Model\bin\Debug\SIS_Model.pdb
+E:\project\College Project\SIMS\Student Information System\SIS_Model\obj\Debug\SIS_Model.exe
+E:\project\College Project\SIMS\Student Information System\SIS_Model\obj\Debug\SIS_Model.pdb

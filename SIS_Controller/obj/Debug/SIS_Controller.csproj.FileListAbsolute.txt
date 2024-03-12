@@ -1,0 +1,23 @@
+D:\SIS\Student Information System\SIS_Controller\bin\Debug\SIS_Controller.exe.config
+D:\SIS\Student Information System\SIS_Controller\bin\Debug\SIS_Controller.exe
+D:\SIS\Student Information System\SIS_Controller\bin\Debug\SIS_Controller.pdb
+D:\SIS\Student Information System\SIS_Controller\bin\Debug\SIS_Model.exe
+D:\SIS\Student Information System\SIS_Controller\bin\Debug\SIS_Model.pdb
+D:\SIS\Student Information System\SIS_Controller\bin\Debug\SIS_Model.exe.config
+D:\SIS\Student Information System\SIS_Controller\obj\Debug\SIS_Controller.csproj.AssemblyReference.cache
+D:\SIS\Student Information System\SIS_Controller\obj\Debug\SIS_Controller.csproj.SuggestedBindingRedirects.cache
+D:\SIS\Student Information System\SIS_Controller\obj\Debug\SIS_Controller.csproj.CoreCompileInputs.cache
+D:\SIS\Student Information System\SIS_Controller\obj\Debug\SIS_Controller.csproj.CopyComplete
+D:\SIS\Student Information System\SIS_Controller\obj\Debug\SIS_Controller.exe
+D:\SIS\Student Information System\SIS_Controller\obj\Debug\SIS_Controller.pdb
+E:\project\College Project\SIMS\Student Information System\SIS_Controller\bin\Debug\SIS_Controller.exe.config
+E:\project\College Project\SIMS\Student Information System\SIS_Controller\bin\Debug\SIS_Controller.exe
+E:\project\College Project\SIMS\Student Information System\SIS_Controller\bin\Debug\SIS_Controller.pdb
+E:\project\College Project\SIMS\Student Information System\SIS_Controller\bin\Debug\SIS_Model.exe
+E:\project\College Project\SIMS\Student Information System\SIS_Controller\bin\Debug\SIS_Model.pdb
+E:\project\College Project\SIMS\Student Information System\SIS_Controller\bin\Debug\SIS_Model.exe.config
+E:\project\College Project\SIMS\Student Information System\SIS_Controller\obj\Debug\SIS_Controller.csproj.AssemblyReference.cache
+E:\project\College Project\SIMS\Student Information System\SIS_Controller\obj\Debug\SIS_Controller.csproj.CoreCompileInputs.cache
+E:\project\College Project\SIMS\Student Information System\SIS_Controller\obj\Debug\SIS_Controller.csproj.CopyComplete
+E:\project\College Project\SIMS\Student Information System\SIS_Controller\obj\Debug\SIS_Controller.exe
+E:\project\College Project\SIMS\Student Information System\SIS_Controller\obj\Debug\SIS_Controller.pdb

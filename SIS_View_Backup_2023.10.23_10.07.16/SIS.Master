@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SIS.master.cs" Inherits="SIS_View.SIS" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>  
+    
+    <title>SIMS</title>
+    <link rel="icon" href="assets/img/Logo.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="assets/js/SIS.js"></script>
+    <link href="assets/css/SIS.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="header">
+            <a href="Home.aspx">
+                <img src="assets/img/Logo.png" id="logo" />
+            </a>
+            <div id="system">
+                <asp:Label ID="lblsystem" runat="server" Text="[system]"></asp:Label>
+            </div>
+        </div>
+        <div id="nav">
+            <asp:Label ID="lbldate" runat="server" Text="Label"></asp:Label>
+            <a href="#" style="text-decoration: none">
+                <asp:Label ID="lblpage" runat="server" Text="Label"></asp:Label></a>
+            <a href="Login.aspx">
+                <asp:Label ID="Login1" runat="server" Text="[login]"></asp:Label></a>
+            <a href="Logout.aspx">
+                <asp:Label ID="Logout1" runat="server" Text="[Logout]"></asp:Label></a>
+            <a href="ManageProfile">
+                <asp:Label ID="username1" runat="server" Text="[username]"></asp:Label></a>
+        </div>
+        <div id="sep">
+        </div>
+        <div id="mainbody">
+            <div id="leftbar">
+                <asp:Panel ID="MenuList" runat="server">
+                    <asp:Panel ID="Menu" runat="server">
+                        <h4 id="MenuName">Main Menu </h4>
+                    </asp:Panel>
+                    <asp:TreeView ID="TreeView1" runat="server" ImageSet="XPFileExplorer" NodeIndent="15" OnSelectedNodeChanged="TreeView1_SelectedNodeChanged">
+                        <HoverNodeStyle Font-Underline="True" ForeColor="#6666AA" />
+                        <NodeStyle Font-Names="Tahoma" Font-Size="8pt" ForeColor="Black" HorizontalPadding="2px" NodeSpacing="0px" VerticalPadding="2px" />
+                        <ParentNodeStyle Font-Bold="False" />
+                        <SelectedNodeStyle BackColor="#B5B5B5" Font-Underline="False" HorizontalPadding="0px" VerticalPadding="0px" />
+                    </asp:TreeView>
+                    </asp:Panel>
+            </div>
+            <div id="maincontent">
+                <asp:Panel ID="MasterPannel" runat="server" Style="margin-left: 10px">
+                    <asp:Label ID="lblinfo" runat="server" Text="Label"></asp:Label>
+                    <hr />
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                    <br />
+                </asp:Panel>
+            </div>
+        </div>
+
+
+
+
+
+
+    </form>
+</body>
+</html>
